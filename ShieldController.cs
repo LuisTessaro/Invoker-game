@@ -21,6 +21,7 @@ public class ShieldController : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D coll)
     {
+        //chance to raycast asap
         if (gameObject.tag == type && coll.gameObject.tag == type)
         {
             Destroy(gameObject);
