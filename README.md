@@ -1,4 +1,5 @@
 # InvokerGame
+[THIS CODE IS OLD AND BAD, TAKE IT WITH A GRAIN OF SALT]
 Learning unity by making an old project come to life.
 The game is a rip off from color sheep but using the invoker mechanics(a hero from DoTA2).
 It plays out with 2 types of enemies, a fying one (which does not move and only throws spells at the player) and a walking one.
